@@ -11,8 +11,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/cocham/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0127-word-ladder](https://github.com/cocham/LeetCode/tree/master/0127-word-ladder) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/cocham/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/cocham/LeetCode/tree/master/0127-word-ladder) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/cocham/LeetCode/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/cocham/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->

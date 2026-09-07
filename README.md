@@ -28,4 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/cocham/LeetCode/tree/master/0127-word-ladder) |
+## Array
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/cocham/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/cocham/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/cocham/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/cocham/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/cocham/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0127-word-ladder](https://github.com/cocham/LeetCode/tree/master/0127-word-ladder) |
 ## Bidirectional Search
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/cocham/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0300-longest-increasing-subsequence](https://github.com/cocham/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/cocham/LeetCode/tree/master/0322-coin-change) |
 ## Longest Increasing Subsequence
@@ -55,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/cocham/LeetCode/tree/master/0322-coin-change) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/cocham/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/cocham/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
